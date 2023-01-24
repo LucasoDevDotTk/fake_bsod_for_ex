@@ -1,5 +1,8 @@
 # Fake_bsod for my gf
 Copy of https://github.com/LucasoDevDotTk/Fake_bsod, with modified BSOD text for my beloved girlfriend. Thanks for everything, Isabella. Love you!
+
+# Update
+She broke up :( Thanks for being honest.
 ___
 
 ## HOW TO
